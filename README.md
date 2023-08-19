@@ -67,7 +67,7 @@ Possibility to get Users grouped by: team, position.
 
 ## Links
 
-- Workshop 18.08.2023 https://youtu.be/Th0Hznj2hTA?wt.mc_id=studentamb_61984 https://youtu.be/Th0Hznj2hTA?wt.mc_id=studentamb_61984
+- Workshop 18.08.2023 https://youtu.be/Th0Hznj2hTA?wt.mc_id=studentamb_61984
 - DB installation on docker https://ocw.cs.pub.ro/courses/bd2/resurse/docker
 - SSMS https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16?wt.mc_id=studentamb_61984
 - Virtual in C# https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual?wt.mc_id=studentamb_61984
